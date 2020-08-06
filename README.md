@@ -41,7 +41,7 @@ For efficiency's sake, Rails aliased the `generate` method to `g`, so the CLI co
 
 ```
 rails g <name of generator> <options> --no-test-framework
-```
+```q
 
 ## Different types of generators
 
